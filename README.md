@@ -3,4 +3,4 @@ Serving a webpage that reads mobile device's accelerometer data over a local net
 
 <h2>Set Up Instructions</h2>
 After navigating to this directory in terminal, type <br>
-<code>python -m SimpleHTTPServer 5000</code> to run a server. <br><br>Type in <strong>laptop's IP address:5000</strong> as URL in browser to access the webpage on mobile devices.
+<code>python -m SimpleHTTPServer 5000</code> to run a server. <br><br>Type in <strong>laptop's IP address:5000</strong> as URL in browser to access the webpage on mobile devices (make sure the mobile device and the laptop are on the same network).
